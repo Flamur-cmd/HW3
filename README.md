@@ -20,4 +20,10 @@ Education  -> Vac status
 
 We will now present our code that visually depicts the relationship between our variables that affect vax status against the vax status itself:
 
+Based on the Vax Status vs. Education graph,  we can conclude that the higher degree a person obtains, the more likely it is for them to get a Vaccine. The majority of people who did not get the vaccine were from people who had a high school diploma and lower.
+
+Based on the Vax Status vs. Birth Year graph, we concluded that a majority of people who got the vaccine were born between the years of 1950-2000 while the majority of people who did not get the vaccine were born before 1950 and were born after 2010.
+
+Based on the Vax Status vs Income Graph,  in terms of proportions, there seems to be no difference between the number of people who did not get the vax vs. who got the vax as in each income bracket, the number of people who got the vax massively outnumber the people who did not.
+
 
